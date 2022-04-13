@@ -1,0 +1,40 @@
+
+
+
+.outerdiv-cust_1{
+  position: absolute;
+  left: 200px;
+  top: 39px;
+  width: 582%;
+  height: 93%;
+  /* border: 2px solid rgb(5, 0, 0); */
+  background-color: rgb(28 56 70 / 92%);
+}
+    .divone-cust_1{
+        /* border: 2px solid rgb(27, 255, 7); */
+        width: 100%;
+        height: 100%;
+        overflow-x: scroll;
+    }
+    
+    .common-cust_1{
+        
+       width: 100%;
+        /* border: 2px solid rgb(216, 29, 29); */
+      height: 90%;
+    }
+    .indiviual-cust{
+       align-self: center;
+
+      height: 52%;
+      margin-left: 0px;
+      margin: 5px;
+      width: 15%;
+        /* border: 2px solid rgb(61, 7, 255); */
+    
+      
+    }
+    p{
+        text-align: center;
+        margin: 0px;
+    }

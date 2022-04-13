@@ -1,0 +1,32 @@
+.formdiv{
+    border-radius: 5px;
+    position: relative;
+    }
+.most{
+  
+    opacity: 1.0;
+    width: 20em;
+    position: absolute;
+    left: 27em;
+    top: 10rem;
+    height: 300px;
+}
+
+.h1-1{
+    color: black;
+    text-align: center;
+    font-family: monospace;
+    font-style: italic;
+    text-shadow: 4px 2px 2px white;
+}
+.most{
+    content: '';
+    background-color: rgb(28 56 70 / 92%);
+    /* background-image: url('../../img/login.jpg'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+    /* opacity: 0.8; */
+    left: 35rem;
+   
+}

@@ -1,0 +1,44 @@
+.sbR1{
+    text-align: justify;
+    overflow-wrap: break-word;
+    align-content: center;
+    justify-content: last baseline;
+    flex-flow:  column;
+    flex-direction: column ;
+    border: 2px solid lawngreen;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    margin: 50px;
+    height: 200px;
+   height: auto;
+}
+.btn1 {
+    box-shadow:0 0 0 1px #4CAF50 inset, 0 0 0 2px rgba(255,255,255,0.15) inset, 0 8px 0 0 #4CAF50, 0 8px 0 1px rgba(0,0,0,0.4), 0 8px 8px 1px rgba(0,0,0,0.5);
+    background-color:#4CAF50;
+  
+}
+.btn1:hover {
+    box-shadow:0 0 0 1px #39fd43 inset, 0 0 0 2px rgba(255,255,255,0.15) inset, 0 8px 0 0 #39fd43, 0 8px 0 1px rgba(0,0,0,0.4), 0 8px 8px 1px rgba(0,0,0,0.5);
+    background-color:#39fd43;
+
+}
+.btn2{
+    justify-content: space-around;
+    margin: 8px;
+    align-content:space-between ;
+}
+.btndiv{
+    
+    text-align: end;
+    overflow-wrap: break-word;
+   
+  
+}
+.price{
+    color: tomato;
+font-weight: bolder;
+font-size: 30px;
+}

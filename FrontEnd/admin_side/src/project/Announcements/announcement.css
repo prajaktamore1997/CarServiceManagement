@@ -1,0 +1,35 @@
+/* .announcement{
+    position: absolute;
+    height: 90%;
+    width:100%;
+border: 2px solid blue;
+    background-color: rgb(139, 117, 117);
+} */
+.out1{
+    position: absolute;
+    left: 100%;
+    top: 0%;
+    height: 100%;
+    width: 579%;
+    background-color: rgb(28 56 70 / 92%);
+}
+.h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.scoll{
+    /* display: table-caption;
+    overflow: auto;
+    height: 485px;
+    width:123%; */
+    overflow: auto;
+    
+}
+.txt{
+    color: white;
+}
+.addBtn{
+    position: relative;
+    top: -42px;
+} 
+

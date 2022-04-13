@@ -1,0 +1,45 @@
+.outerdiv{
+    position: absolute;
+    left: 200px;
+    top: 39px;
+    width: 582%;
+    height: 93%;
+    /* border: 2px solid rgb(5, 0, 0); */
+    background-color: rgb(28 56 70 / 92%);
+}
+.divone{
+    /* border: 2px solid rgb(27, 255, 7); */
+    width: 100%;
+    height: 48%;
+    overflow-x: scroll;
+}
+.divtwo{
+    /* border: 2px solid rgb(255, 217, 2); */
+    height: 53%;
+    width: 100%;
+    overflow-x: scroll;
+}
+
+.common{
+   width: 100%;
+    /* border: 2px solid rgb(216, 29, 29); */
+  height: 90%;
+}
+.indiviual{
+   align-self: center;
+ 
+  margin-left: 0px;
+  margin: 5px;
+ 
+    /* border: 2px solid rgb(61, 7, 255); */
+
+  
+}
+p{
+    text-align: center;
+    margin: 0px;
+}
+.viewbtn{
+    width: 100%;
+}
+

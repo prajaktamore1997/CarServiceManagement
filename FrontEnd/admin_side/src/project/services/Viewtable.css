@@ -1,0 +1,17 @@
+.mainbox{
+    position: absolute;
+    left: 20%;
+    color: black;
+}
+
+.para{
+   
+    font-weight: bold;
+}
+.viewout{
+    position: absolute;
+    left: 350px;
+    top: 50px;
+    width: 400%;
+    background-color: #717171;
+}

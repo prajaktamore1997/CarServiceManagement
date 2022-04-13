@@ -1,0 +1,8 @@
+.orderoutterdiv{
+    position: absolute;
+    left: 200px;
+    top: 0px;
+    width: 581%;
+    color: black;
+    border: 2px solid rgb(5, 0, 0);
+}

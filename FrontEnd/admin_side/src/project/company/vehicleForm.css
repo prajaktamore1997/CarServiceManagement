@@ -1,0 +1,14 @@
+.outerdiv-vehicle-form{
+  overflow: scroll;
+  position: absolute;
+  left: 200px;
+  height: 100%;
+  top: 0px;
+  width: 500%;
+  color: black;
+  border: 2px solid rgb(5, 0, 0);
+}
+
+.form-label{
+    margin-bottom: 0px;
+}

@@ -1,0 +1,81 @@
+.maincontainer{
+    justify-content: center;
+    display: flex;
+
+}
+.homelogo{
+
+  padding-left: none;
+  margin-top: 20px;
+  width: 150px;
+  height: 100px;
+  align-self: 'center';
+  border-width: 1px;
+  border-Radius: 15px
+}
+.homelogodiv{
+  margin-top: none;
+  text-align: center;
+  width: 20%;
+  height: 100%;
+
+
+}
+
+.homelogotext{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+
+}
+/* .navbarstyle{
+  clear: both;
+
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 30px;
+  background-color: rgb(229, 241, 240);
+  text-align: center;
+
+
+} */
+.nav-link{
+  margin-top: none;
+  font-size: 20px;
+margin:20px;
+overflow-x: auto;
+}
+
+
+.btn-success{
+  
+font-size: 30px;
+  align-content:center;
+ margin: 25% 35%;
+align-content: flex-start;
+width: 500px;
+
+
+}
+.heigth{
+height: 200px;
+}
+.arrow {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+.secondary-color{
+  background-color:#b9936c
+
+}
+.userlogo{
+    height: 60px;
+    width: 60px;
+}

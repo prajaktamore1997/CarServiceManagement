@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+ 
+}
+.div-1{
+  width: 200px;
+  height: 625px;
+  /* after */
+  position: fixed;
+}
+.li-1{
+  font-weight:500;
+  font-size: larger;
+  font-family: 'Times New Roman', Times, serif;
+  font-size-adjust: initial;
+  text-align: center;
+  height: 75px;
+text-indent: 10px;
+
+}
+li:hover{
+  background-color: rgba(182, 185, 182, 0.226);
+}

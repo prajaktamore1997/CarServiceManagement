@@ -1,0 +1,28 @@
+
+.out{
+    position: absolute;
+    top: 6%;
+    left: 100%;
+    width: 72.9rem;
+    height: 94%;
+    /* border: 2px solid rgb(24, 1, 233); */
+    background-color: rgb(28 56 70 / 92%);
+}
+.In-sub-service{
+flex-direction: row;
+    height:25%;
+
+    /* border: 2px solid rgb(216, 29, 29); */
+    margin: 1px;
+}
+
+.sub_container{
+    overflow: scroll;
+    width: 582%;
+    height: 100%;
+}
+.custom-btn{
+   
+    color: white;
+    font-size: larger;
+}
